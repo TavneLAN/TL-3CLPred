@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+.env
+.venv/
+venv/
+
+runs/
+runs_E/
+runs_Q/
+
+*.PC
+*.weights.h5
+*.history.csv
+*.tensorboard/
+*.log
+
